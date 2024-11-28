@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mari!</h1>
-<h3 align="center">💻 Starting my adventure in programming! Enthusiast of technology and creativity. Let’s code together! 🌈✨</h3>
+<h3 align="center">💻 Starting my adventure in programming! Enthusiast of technology and creativity. Let’s code together! ✨</h3>
 
 ###
 
